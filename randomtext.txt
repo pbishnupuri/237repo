@@ -1,3 +1,9 @@
-				echo "$line: $TOTALPOINTS"
+				
+
+
+echo "$line: $TOTALPOINTS"
 			else
+
+
+new line
 hey
